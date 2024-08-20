@@ -1,0 +1,68 @@
+.options > h1{
+  margin-top: 70px;
+  margin-left: 192px;
+  font-size: 30px;
+}
+
+.explore-1,.explore-2,.explore-3,.explore-4{
+  margin-bottom: 20px;
+  color: rgb(45, 44, 44);
+  border-radius: 8px;
+  font-weight: 200;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 22px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+  width: 73.5%;
+  border: 1px solid rgb(205, 205, 205);
+
+}
+
+.options-containers{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.down{
+  background-color: white;
+  border: none;
+  cursor: pointer;
+
+}
+.temp{
+  transition: all 0.001s smooth;
+  height:240px;
+}
+.temp2{
+  margin-left: 6px;
+  margin-top: 25px;
+  padding: 3px;
+  font-size: 21px;
+  color: rgb(130, 130, 130);
+}
+.xxx{
+   display: flex;
+   flex-direction: row;
+   gap: 23px;
+   margin-left: 12px;
+   justify-self: center;
+   
+
+
+}
+
+.xyz{
+  margin-right: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

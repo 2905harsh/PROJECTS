@@ -1,0 +1,45 @@
+.middle{
+  display: flex;
+  flex: row;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.middle img {
+  border-radius: 21px 21px 0px 0px;
+  /* padding: 5px; */
+ width: 350px;
+ height: 190px;
+ 
+ 
+}
+.middle div{
+  border: 1.5px solid  rgb(221, 220, 220);
+  border-radius: 24px 24px 20px 20px;
+  height: 270px;
+ background-color: white;
+}
+.first,.second,.third{
+  transition: all 0.25s ease-in-out;
+}
+
+.first:hover , .second:hover , .third:hover{
+  transform: scale(1.07);
+}
+
+h2{
+  user-select: none;
+ margin-top: 9px;
+ margin-left: 19px;
+ font-size: 20px;
+ margin-bottom: 6px;
+ font-weight: 400;
+}
+h4{
+  user-select: none;
+  margin-left: 19px;
+  font-size: 17px;
+  color: rgb(118, 116, 116);
+  font-weight: 200;
+}

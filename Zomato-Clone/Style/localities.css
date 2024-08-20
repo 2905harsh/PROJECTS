@@ -1,0 +1,29 @@
+.localities{
+  gap: 14px;
+  margin-left: 190px;
+  margin-top: 70px;
+  font-size: 28px;
+
+}
+.places{
+  margin-right: 30px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px;
+  font-weight: 100;
+  border-radius: 10px;
+  font-size: 22px;
+  height: 78px;
+  width: 340px;
+  border: 1px solid rgb(205, 203, 203);
+
+}
+
+.localities-names{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}

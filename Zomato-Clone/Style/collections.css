@@ -1,0 +1,45 @@
+.collections >h1{
+  font-size: 36px;
+  margin-top: 70px;
+  margin-left: 190px;
+  color: rgb(28, 28, 28);
+}
+.collections >h3{
+  color: rgb(54, 54, 54);
+  font-size: 1.8rem;
+  margin-top: 8px;
+  margin-left: 190px;
+  font-weight: 300;
+}
+.container {
+  width: 230px;
+  position: relative;
+  text-align: center;
+
+}
+.bottom-left {
+  position: absolute;
+  top:220px;
+  left: 16px;
+  color: white;
+  font-size: 18px;
+}
+
+.collections-inside{
+  margin-top: 25px;
+  margin-left: 190px;
+  display: flex;
+  flex-direction: row;
+  gap:30px
+}
+.container>img{
+  border-radius: 15px;
+  height: 275px;
+}
+.bottom-left-2 {
+  position: absolute;
+  top:248px;
+  left: 16px;
+  color: white;
+  font-size: 19px;
+}
