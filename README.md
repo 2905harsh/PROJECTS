@@ -4,4 +4,3 @@ This repository showcases my journey in frontend development. Each project withi
 Technologies Used
 HTML5 & CSS3: The foundation of web pages.
 JavaScript: For adding interactivity and dynamic content.
-ReactJS: A powerful library for building user interfaces.
